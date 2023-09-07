@@ -1,0 +1,12 @@
+name: SpawnProtect
+version: '${project.version}'
+main: com.gliesestudio.spawnprotect.SpawnProtect
+api-version: '1.20'
+authors: [Mazidul Islam]
+description: Spawn Protect custom plugin to protect server spawn location
+
+commands:
+  setspawn:
+    description: Set the spawn protection area.
+    usage: /setspawn x1 y1 z1 x2 y2 z2
+    permission: spawnprotect.setspawn
