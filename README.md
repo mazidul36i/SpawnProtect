@@ -9,5 +9,5 @@ Simplest Minecraft paper/bukkit plugin to protect the spawn area of a public ser
 
 ## How to set spawn position?
 Use the command with op (operator) permission
-`` /setspawn x1 y1 z1 x2 y2 z2 ``
+``` /setspawn x1 y1 z1 x2 y2 z2 ```
 In place of x1 y1... write your spawn position
