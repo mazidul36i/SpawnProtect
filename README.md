@@ -14,4 +14,5 @@ Use the command with op (operator) permission
 
 In place of x1 y1... write your spawn positions
 
-- Example command ``` /setspawn -30 -64 -30 30 319 20 ```
+- Example command ``` /setspawn -30 -64 -30 30 319 30 ```
+  This sets your spawn area by 30 radius from 0 0 0 position
