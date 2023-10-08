@@ -12,4 +12,6 @@ Use the command with op (operator) permission
 
 ``` /setspawn x1 y1 z1 x2 y2 z2 ```
 
-In place of x1 y1... write your spawn position
+In place of x1 y1... write your spawn positions
+
+- Example command ``` /setspawn -30 -64 -30 30 319 20 ```
